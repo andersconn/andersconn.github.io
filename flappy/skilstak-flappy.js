@@ -70,10 +70,10 @@ var CONFIG = {
     } 
   },
   "gameover": {
-    "text": "doot doot",
+    "text": "Doot Doot",
     "offset": -150,
     "style": {
-      "font": "90px sans-serif", 
+      "font": "70px sans-serif", 
       "fill": "#b58900",
       "align": "center"
     }, 
