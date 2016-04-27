@@ -73,7 +73,7 @@ var CONFIG = {
     "text": "doot doot",
     "offset": -150,
     "style": {
-      "font": "100px sans-serif", 
+      "font": "90px sans-serif", 
       "fill": "#b58900",
       "align": "center"
     }, 
