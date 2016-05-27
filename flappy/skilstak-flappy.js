@@ -60,7 +60,7 @@ var CONFIG = {
     }
   },
   "highscore": {
-    "text": "Dank Meme Level: ",
+    "text": "HIGH SCORE: ",
     "offset": 250,
     "key": "skilstak-flappy-highscore",
     "style": {
